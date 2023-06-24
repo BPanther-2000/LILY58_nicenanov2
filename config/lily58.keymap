@@ -61,7 +61,7 @@ bindings = <
     &kp F1  &kp F2    &kp F3    &kp F4    &kp F5  &kp F6                       &trans  &trans  &trans  &trans &trans  &trans
     &trans  &trans    &kp UP    &trans    &trans  &trans                       &trans  &trans  &trans  &trans &trans  &trans
     &trans  &kp LEFT  &kp DOWN  &kp RIGHT &trans  &trans                       &trans  &trans  &trans  &trans &trans  &trans
-    &trans  &kp BSLH  &kp PIPE  &trans    &trans  &trans                       &trans  &trans  &trans  &trans &trans  &trans
+    &trans  &kp BSLH  &kp PIPE  &trans    &trans  &trans    &trans    &trans   &trans  &trans  &trans  &trans &trans  &trans
                                 &trans    &trans  &trans    &trans    &trans   &trans  &trans  &trans
 			>;
 
